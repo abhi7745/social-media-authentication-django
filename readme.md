@@ -2,9 +2,11 @@
 
 ## Python package:
 
-[django-allauth](https://django-allauth.readthedocs.io/en/latest/installation.html)
+- [django-allauth](https://django-allauth.readthedocs.io/en/latest/installation.html)
 
-```bash pip install django-allauth```
+``` bash 
+pip install django-allauth 
+```
 
 ## Providers
 
