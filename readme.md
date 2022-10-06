@@ -12,6 +12,7 @@ pip install django-allauth
 
 - Google
 - Github
+- Facebook
 
 
 ## App registration
@@ -19,3 +20,5 @@ pip install django-allauth
 - [Google Cloud](https://console.developers.google.com/)
 
 - [GitHub](https://github.com/settings/applications/new)
+
+- [Facebook](https://developers.facebook.com/apps)
